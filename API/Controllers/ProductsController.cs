@@ -1,4 +1,7 @@
-﻿using API.RequestHelpers;
+﻿using API.DTOs;
+using API.Extensions;
+using API.RequestHelpers;
+using CloudinaryDotNet.Actions;
 using Core.Entities;
 using Core.Interfaces;
 using Core.Specifications;
@@ -7,7 +10,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers;
 
-public class ProductsController(IUnitOfWork unit) : BaseApiController
+public class ProductsController(IUnitOfWork unit, IPhotoService photoService) : BaseApiController
 {
     [Cache(600)]
     [HttpGet]
@@ -30,29 +33,54 @@ public class ProductsController(IUnitOfWork unit) : BaseApiController
         return product;
     }
 
-    [InvalidateCache("api/products|")]
-    [Authorize(Roles = "Admin")]
+     [InvalidateCache("api/products|")]
+    // [Authorize(Roles = "Admin")]
     [HttpPost]
-    public async Task<ActionResult<Product>> CreateProduct(Product product)
+    public async Task<ActionResult<Product>> CreateProduct([FromForm]ProductDto productDto)
     {
+        var product = productDto.ToEntity();
+
+        ImageUploadResult imageUploadResult = await photoService.AddPhotoAsync(productDto.Picture);
+        if (imageUploadResult.Error == null)
+        {
+            product.PictureUrl = imageUploadResult.SecureUrl.ToString();
+            product.PicturePublicId = imageUploadResult.PublicId;
+        }
+
         unit.Repository<Product>().Add(product);
 
         if (await unit.Complete())
         {
-            return CreatedAtAction("GetProduct", new { id = product.Id }, product);
+            return CreatedAtAction("GetProduct", new { id = product.Id }, new { createProductDto = productDto});
         }
 
         return BadRequest("Problem creating product");
     }
 
     [InvalidateCache("api/products|")]
-    [Authorize(Roles = "Admin")]
+    //[Authorize(Roles = "Admin")]
     [HttpPut("{id:int}")]
-    public async Task<ActionResult> UpdateProduct(int id, Product product)
+    public async Task<ActionResult> UpdateProduct(int id, ProductDto productDto)
     {
-        if (product.Id != id || !ProductExists(id))
-            return BadRequest("Cannot update this product");
+        var product = await unit.Repository<Product>().GetByIdAsync(id);
+        if (product == null) return NotFound();
+        
+        product.MapFromDto(productDto);
 
+        if (productDto.Picture.Length > 0) 
+        {
+            if (!string.IsNullOrEmpty(product.PicturePublicId))
+            {
+                await photoService.DeletePhotoAsync(product.PicturePublicId);
+            }
+            ImageUploadResult imageUploadResult = await photoService.AddPhotoAsync(productDto.Picture);
+            if (imageUploadResult.Error == null)
+            {
+                product.PictureUrl = imageUploadResult.SecureUrl.ToString();
+                product.PicturePublicId = imageUploadResult.PublicId;
+            }
+        }
+        
         unit.Repository<Product>().Update(product);
 
         if (await unit.Complete())
@@ -64,7 +92,7 @@ public class ProductsController(IUnitOfWork unit) : BaseApiController
     }
 
     [InvalidateCache("api/products|")]
-    [Authorize(Roles = "Admin")]
+    //[Authorize(Roles = "Admin")]
     [HttpDelete("{id:int}")]
     public async Task<ActionResult> DeleteProduct(int id)
     {
@@ -72,8 +100,13 @@ public class ProductsController(IUnitOfWork unit) : BaseApiController
 
         if (product == null) return NotFound();
 
+        if (!string.IsNullOrEmpty(product.PicturePublicId))
+        {
+            await photoService.DeletePhotoAsync(product.PicturePublicId);
+        }
+        
         unit.Repository<Product>().Remove(product);
-
+        
         if (await unit.Complete())
         {
             return NoContent();
