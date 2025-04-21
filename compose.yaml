@@ -1,0 +1,42 @@
+﻿services:
+  api:
+    image: api
+    build:
+      context: .
+      dockerfile: API/Dockerfile
+    depends_on:
+      sql:
+        condition: service_started
+      redis:
+        condition: service_started
+    ports:
+      - "5000:8080"
+      - "5001:8081"
+    environment:
+      - OTEL_EXPORTER_OTLP_ENDPOINT=http://aspire-dashboard:18889
+      - OTEL_EXPORTER_OTLP_PROTOCOL=grpc
+  sql:
+    image: mcr.microsoft.com/azure-sql-edge
+    environment:
+      ACCEPT_EULA: "1"
+      MSSQL_SA_PASSWORD: "Password@1"
+    ports:
+      - "1433:1433"
+    volumes:
+      - sql-data:/var/opt/mssql
+  redis:
+    image: redis:latest
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+  aspire-dashboard:
+    image: mcr.microsoft.com/dotnet/aspire-dashboard:9.0
+    environment:
+      DOTNET_DASHBOARD_UNSECURED_ALLOW_ANONYMOUS: true
+    ports:
+      - "18888:18888"
+    
+volumes:
+  redis-data:
+  sql-data:
