@@ -1,25 +1,15 @@
-# Skinet Project Repository
+# E-commerce app
 
-Welcome to the brand new version of the SkiNet app created for the Udemy training course available [here](https://www.udemy.com/course/learn-to-build-an-e-commerce-app-with-net-core-and-angular).
-
-This has been rewritten from scratch to take advantage of and to make it (hopefully) a bit more futureproof.  This app is built using .Net 8 and Angular 18 
+An e-commerce store using .NET 8 and Angular 18, Self-guided project based on modern e-commerce practices.
 
 # Running the project
 
-You can see a live demo of this project [here](https://skinet-course.azurewebsites.net/).
-
-You can also run this app locally.  To run this project locally you will need to have installed:
+To run this project locally you will need to have installed:
 
 1. Docker
 2. .Net SDK v8
 3. NodeJS (at least version 20.11.1) - Optional if you want to run the Angular app separately in development mode
 4. Clone the project in a User folder on your computer by running:
-
-```bash
-# you will of course need git installed to run this
-git clone https://github.com/TryCatchLearn/skinet-2024.git
-cd skinet-2024
-```
 
 5. Restore the packages by running:
 
