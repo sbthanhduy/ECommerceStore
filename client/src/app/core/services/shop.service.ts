@@ -1,18 +1,18 @@
-import { HttpClient, HttpParams } from '@angular/common/http';
-import { inject, Injectable } from '@angular/core';
-import { Pagination } from '../../shared/models/pagination';
-import { Product } from '../../shared/models/product';
-import { ShopParams } from '../../shared/models/shopParams';
-import { environment } from '../../../environments/environment';
+import {HttpClient, HttpParams} from '@angular/common/http';
+import {inject, Injectable} from '@angular/core';
+import {Pagination} from '../../shared/models/pagination';
+import {Product} from '../../shared/models/product';
+import {ShopParams} from '../../shared/models/shopParams';
+import {environment} from '../../../environments/environment';
 
 @Injectable({
   providedIn: 'root'
 })
 export class ShopService {
   baseUrl = environment.apiUrl;
-  private http = inject(HttpClient);
   types: string[] = [];
   brands: string[] = [];
+  private readonly http = inject(HttpClient);
 
   getProducts(shopParams: ShopParams) {
     let params = new HttpParams();
@@ -55,5 +55,13 @@ export class ShopService {
     return this.http.get<string[]>(this.baseUrl + 'products/types').subscribe({
       next: response => this.types = response,
     })
+  }
+
+  getProductsSemantic(query: string) {
+    return this.http.post<Pagination<Product>>(this.baseUrl + "rag", {searchText: query})
+  }
+
+  getAiSummary(id: number) {
+    return this.http.get<string[]>(this.baseUrl + "rag/summaries/" + id);
   }
 }

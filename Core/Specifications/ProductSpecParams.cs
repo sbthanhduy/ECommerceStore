@@ -32,6 +32,16 @@ public class ProductSpecParams : PagingParams
         get => _search ?? "";
         set => _search = value.ToLower();
     }
-    
 
+
+    public static ProductSpecParams Empty()
+    {
+        return new ProductSpecParams()
+        {
+            Brands = [],
+            Types = [],
+            Sort = "",
+            Search = "",
+        };
+    }
 }

@@ -8,8 +8,14 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.7" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.6" />
+    <PackageReference Include="Microsoft.SemanticKernel.Abstractions" Version="1.47.0" />
+    <PackageReference Include="OpenAI" Version="2.2.0-beta.4" />
     <PackageReference Include="StackExchange.Redis" Version="2.8.0" />
     <PackageReference Include="Stripe.net" Version="45.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="obj\Debug\net8.0\" />
   </ItemGroup>
 
   <PropertyGroup> 

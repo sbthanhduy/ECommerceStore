@@ -1,0 +1,162 @@
+.shop-container {
+  padding: 1rem;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.controls-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-bottom: 2rem;
+
+  @media (min-width: 768px) {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
+
+.search-form {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+
+  @media (min-width: 768px) {
+    flex-direction: row;
+    align-items: center;
+  }
+}
+
+.search-input-container {
+  position: relative;
+  flex: 1;
+}
+
+.search-input {
+  width: 100%;
+  padding: 0.75rem 3rem 0.75rem 1rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+.search-button {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.semantic-toggle {
+  white-space: nowrap;
+}
+
+.action-buttons {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.action-button {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.pagination-top, .pagination-bottom {
+  margin: 1rem 0;
+  background: transparent;
+}
+
+@media (max-width: 600px) {
+  .product-grid {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 1rem;
+  }
+
+  .action-button {
+    font-size: 0.875rem;
+    padding: 0 0.5rem;
+
+    mat-icon {
+      font-size: 18px;
+      width: 18px;
+      height: 18px;
+    }
+  }
+}
+
+/* AI-themed styles */
+
+.search-input-container.ai-active {
+  box-shadow: 0 0 10px rgba(100, 181, 246, 0.5);
+  border-radius: 4px;
+}
+
+.ai-pulse {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: radial-gradient(circle, rgba(100, 181, 246, 0.2) 0%, transparent 70%);
+  border-radius: 4px;
+  animation: pulse 2s infinite;
+  pointer-events: none;
+  z-index: -1;
+}
+
+@keyframes pulse {
+  0% {
+    opacity: 0.5;
+  }
+  50% {
+    opacity: 0.8;
+  }
+  100% {
+    opacity: 0.5;
+  }
+}
+
+.ai-toggle {
+  transition: all 0.3s ease;
+}
+
+.ai-toggle.ai-active {
+  color: #64b5f6;
+}
+
+.ai-toggle.ai-active .mdc-switch__shadow {
+  box-shadow: 0 0 8px rgba(100, 181, 246, 0.6);
+}
+
+.toggle-label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.ai-icon {
+  color: #64b5f6;
+  animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-3px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
