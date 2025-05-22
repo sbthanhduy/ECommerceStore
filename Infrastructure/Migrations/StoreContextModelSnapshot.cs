@@ -245,6 +245,10 @@ namespace Infrastructure.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("PicturePublicId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("PictureUrl")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -293,13 +297,13 @@ namespace Infrastructure.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "f0f410eb-1c21-44be-aeb9-ed4954e4fe12",
+                            Id = "52587943-37e4-477f-8a31-4c91a72ad03c",
                             Name = "Admin",
                             NormalizedName = "ADMIN"
                         },
                         new
                         {
-                            Id = "d9babf83-382a-4e6f-b8da-e4ab34c7ca60",
+                            Id = "2474e5e5-7cb4-44f5-95f8-e632abf39f78",
                             Name = "Customer",
                             NormalizedName = "CUSTOMER"
                         });

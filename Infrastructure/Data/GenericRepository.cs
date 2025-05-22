@@ -21,6 +21,11 @@ public class GenericRepository<T>(StoreContext context) : IGenericRepository<T> 
         return await query.CountAsync();
     }
 
+    public async Task<IReadOnlyList<T>> GetOfIdsAsync(List<int> ids)
+    {
+        return await context.Set<T>().Where(x => ids.Contains(x.Id)).ToListAsync();
+    }
+
     public bool Exists(int id)
     {
         return context.Set<T>().Any(x => x.Id == id);

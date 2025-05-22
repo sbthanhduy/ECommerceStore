@@ -9,11 +9,19 @@ using Infrastructure.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.VectorData;
+using Microsoft.SemanticKernel;
+using Microsoft.SemanticKernel.Connectors.AzureOpenAI;
+using Microsoft.SemanticKernel.Connectors.OpenAI;
+using Microsoft.SemanticKernel.Data;
+using Microsoft.SemanticKernel.Embeddings;
 using OpenTelemetry;
 using OpenTelemetry.Metrics;
 using OpenTelemetry.Resources;
 using OpenTelemetry.Trace;
 using StackExchange.Redis;
+#pragma warning disable SKEXP0001
+#pragma warning disable SKEXP0010
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -32,6 +40,17 @@ builder.Logging.AddOpenTelemetry(options =>
     options.IncludeScopes = true;
     options.IncludeFormattedMessage = true;
 });
+
+OpenAiSettings openAiSettings = builder.Configuration.GetRequiredSection("OpenAi").Get<OpenAiSettings>();
+IKernelBuilder kernelBuilder = builder.Services.AddKernel();
+kernelBuilder.AddOpenAIChatCompletion(openAiSettings.ChatCompletionModelId, new Uri(openAiSettings.Endpoint), openAiSettings.ChatCompletionApiKey);
+kernelBuilder.AddRedisJsonVectorStoreRecordCollection<ProductVector>(collectionName: "products",
+    builder.Configuration.GetConnectionString("RedisVector"));
+kernelBuilder.AddVectorStoreTextSearch<ProductVector>(
+    new TextSearchStringMapper(result => ((ProductVector)result).Name));
+
+builder.Services.Configure<OpenAiSettings>(builder.Configuration.GetSection("OpenAi"));
+builder.Services.AddScoped<ITextEmbeddingGenerationService, TextEmbeddingGenerationService>();
 
 builder.Services.AddDbContext<StoreContext>(opt =>
 {
@@ -88,8 +107,11 @@ try
     var services = scope.ServiceProvider;
     var context = services.GetRequiredService<StoreContext>();
     var userManager = services.GetRequiredService<UserManager<AppUser>>();
+    var textEmbeddingGenerationService = services.GetRequiredService<ITextEmbeddingGenerationService>();
+    var vectorStoreRecordCollection =
+        services.GetRequiredService<IVectorStoreRecordCollection<string, ProductVector>>();
     await context.Database.MigrateAsync();
-    await StoreContextSeed.SeedAsync(context, userManager);
+    await StoreContextSeed.SeedAsync(context, userManager, textEmbeddingGenerationService, vectorStoreRecordCollection);
 }
 catch (Exception ex)
 {

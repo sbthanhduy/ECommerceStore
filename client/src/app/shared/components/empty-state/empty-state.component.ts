@@ -1,8 +1,8 @@
-import { Component, inject, input, output } from '@angular/core';
-import { MatButton } from '@angular/material/button';
-import { MatIcon } from '@angular/material/icon';
-import { RouterLink } from '@angular/router';
-import { BusyService } from '../../../core/services/busy.service';
+import {Component, inject, Input, input, output} from '@angular/core';
+import {MatButton} from '@angular/material/button';
+import {MatIcon} from '@angular/material/icon';
+import {RouterLink} from '@angular/router';
+import {BusyService} from '../../../core/services/busy.service';
 
 @Component({
   selector: 'app-empty-state',
@@ -21,6 +21,7 @@ export class EmptyStateComponent {
   icon = input.required<string>();
   actionText = input.required<string>();
   action = output<void>();
+  @Input() subMessage!: string;
 
   onAction() {
     this.action.emit();
