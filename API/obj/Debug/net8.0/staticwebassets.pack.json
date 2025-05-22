@@ -1,195 +1,195 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\3rdpartylicenses.txt",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\3rdpartylicenses.txt",
       "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-3KWIB5R2.js",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-3KWIB5R2.js",
       "PackagePath": "staticwebassets\\chunk-3KWIB5R2.js"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-5C3H5Q7Q.js",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-5C3H5Q7Q.js",
       "PackagePath": "staticwebassets\\chunk-5C3H5Q7Q.js"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-5GW63VAN.js",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-5GW63VAN.js",
       "PackagePath": "staticwebassets\\chunk-5GW63VAN.js"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-7NWEC2S5.js",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-7NWEC2S5.js",
       "PackagePath": "staticwebassets\\chunk-7NWEC2S5.js"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-EA75EXRV.js",
-      "PackagePath": "staticwebassets\\chunk-EA75EXRV.js"
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-BXFPQRY4.js",
+      "PackagePath": "staticwebassets\\chunk-BXFPQRY4.js"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-F5375OGX.js",
-      "PackagePath": "staticwebassets\\chunk-F5375OGX.js"
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-FBVB2KKT.js",
+      "PackagePath": "staticwebassets\\chunk-FBVB2KKT.js"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-FCA6M4NN.js",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-FCA6M4NN.js",
       "PackagePath": "staticwebassets\\chunk-FCA6M4NN.js"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-G5T46W7U.js",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-G5T46W7U.js",
       "PackagePath": "staticwebassets\\chunk-G5T46W7U.js"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-GB6PV6KS.js",
-      "PackagePath": "staticwebassets\\chunk-GB6PV6KS.js"
-    },
-    {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-GIZHMPW7.js",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-GIZHMPW7.js",
       "PackagePath": "staticwebassets\\chunk-GIZHMPW7.js"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-IQLW46ES.js",
-      "PackagePath": "staticwebassets\\chunk-IQLW46ES.js"
-    },
-    {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-JGYM447R.js",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-JGYM447R.js",
       "PackagePath": "staticwebassets\\chunk-JGYM447R.js"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-LDEEPC7Y.js",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-LDEEPC7Y.js",
       "PackagePath": "staticwebassets\\chunk-LDEEPC7Y.js"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-OHSTD2Q5.js",
-      "PackagePath": "staticwebassets\\chunk-OHSTD2Q5.js"
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-NVPTD52O.js",
+      "PackagePath": "staticwebassets\\chunk-NVPTD52O.js"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-W4S356MX.js",
-      "PackagePath": "staticwebassets\\chunk-W4S356MX.js"
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-R7L4FIRC.js",
+      "PackagePath": "staticwebassets\\chunk-R7L4FIRC.js"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-XAZAGRYG.js",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-WFERLD42.js",
+      "PackagePath": "staticwebassets\\chunk-WFERLD42.js"
+    },
+    {
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-XAZAGRYG.js",
       "PackagePath": "staticwebassets\\chunk-XAZAGRYG.js"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-XIOKZDYD.js",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-XCGNCI2G.js",
+      "PackagePath": "staticwebassets\\chunk-XCGNCI2G.js"
+    },
+    {
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-XIOKZDYD.js",
       "PackagePath": "staticwebassets\\chunk-XIOKZDYD.js"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-XJECHS7E.js",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-XJECHS7E.js",
       "PackagePath": "staticwebassets\\chunk-XJECHS7E.js"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\hero1.jpg",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\hero1.jpg",
       "PackagePath": "staticwebassets\\images\\hero1.jpg"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\hero2.jpg",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\hero2.jpg",
       "PackagePath": "staticwebassets\\images\\hero2.jpg"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\hero3.jpg",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\hero3.jpg",
       "PackagePath": "staticwebassets\\images\\hero3.jpg"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\hero4.png",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\hero4.png",
       "PackagePath": "staticwebassets\\images\\hero4.png"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\logo.png",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\placeholder.png",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\placeholder.png",
       "PackagePath": "staticwebassets\\images\\placeholder.png"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\boot-ang1.png",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\boot-ang1.png",
       "PackagePath": "staticwebassets\\images\\products\\boot-ang1.png"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\boot-ang2.png",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\boot-ang2.png",
       "PackagePath": "staticwebassets\\images\\products\\boot-ang2.png"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\boot-core1.png",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\boot-core1.png",
       "PackagePath": "staticwebassets\\images\\products\\boot-core1.png"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\boot-core2.png",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\boot-core2.png",
       "PackagePath": "staticwebassets\\images\\products\\boot-core2.png"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\boot-redis1.png",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\boot-redis1.png",
       "PackagePath": "staticwebassets\\images\\products\\boot-redis1.png"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\glove-code1.png",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\glove-code1.png",
       "PackagePath": "staticwebassets\\images\\products\\glove-code1.png"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\glove-code2.png",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\glove-code2.png",
       "PackagePath": "staticwebassets\\images\\products\\glove-code2.png"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\glove-react1.png",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\glove-react1.png",
       "PackagePath": "staticwebassets\\images\\products\\glove-react1.png"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\glove-react2.png",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\glove-react2.png",
       "PackagePath": "staticwebassets\\images\\products\\glove-react2.png"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\hat-core1.png",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\hat-core1.png",
       "PackagePath": "staticwebassets\\images\\products\\hat-core1.png"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\hat-react1.png",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\hat-react1.png",
       "PackagePath": "staticwebassets\\images\\products\\hat-react1.png"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\hat-react2.png",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\hat-react2.png",
       "PackagePath": "staticwebassets\\images\\products\\hat-react2.png"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\sb-ang1.png",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\sb-ang1.png",
       "PackagePath": "staticwebassets\\images\\products\\sb-ang1.png"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\sb-ang2.png",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\sb-ang2.png",
       "PackagePath": "staticwebassets\\images\\products\\sb-ang2.png"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\sb-core1.png",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\sb-core1.png",
       "PackagePath": "staticwebassets\\images\\products\\sb-core1.png"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\sb-core2.png",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\sb-core2.png",
       "PackagePath": "staticwebassets\\images\\products\\sb-core2.png"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\sb-react1.png",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\sb-react1.png",
       "PackagePath": "staticwebassets\\images\\products\\sb-react1.png"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\sb-ts1.png",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\sb-ts1.png",
       "PackagePath": "staticwebassets\\images\\products\\sb-ts1.png"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\index.html",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\main-YETCN4OU.js",
-      "PackagePath": "staticwebassets\\main-YETCN4OU.js"
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\main-SYLKMPG3.js",
+      "PackagePath": "staticwebassets\\main-SYLKMPG3.js"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\polyfills-6EAL64PA.js",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\polyfills-6EAL64PA.js",
       "PackagePath": "staticwebassets\\polyfills-6EAL64PA.js"
     },
     {
-      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\styles-6EURB4QU.css",
+      "Id": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\styles-6EURB4QU.css",
       "PackagePath": "staticwebassets\\styles-6EURB4QU.css"
     },
     {

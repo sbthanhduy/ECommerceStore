@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UlyKM6q+I1rPqjzcafNtDGLENwthoMUBWPlLpe2aLv4=",
+  "Hash": "Nak84qj7zoANgBjmn0mVGkeZ+dRQmH5U2cb6U20vTJU=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "API\\wwwroot",
       "Source": "API",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\3rdpartylicenses.txt",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\3rdpartylicenses.txt",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "3rdpartylicenses#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\3rdpartylicenses.txt"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-3KWIB5R2.js",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-3KWIB5R2.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "chunk-3KWIB5R2#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -52,17 +52,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zjpmjbf2xa",
-      "Integrity": "IWYcBmGD6QejOvbNmHF3phNLF+I5nanXaktl6rVKuJI=",
+      "Fingerprint": "3nceo44fdu",
+      "Integrity": "gSDtYs9VdaGuWkcZ+//y1kIthNDkdswO4uBRmrfJgDg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\chunk-3KWIB5R2.js"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-5C3H5Q7Q.js",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-5C3H5Q7Q.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "chunk-5C3H5Q7Q#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -73,17 +73,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "74exo7hedv",
-      "Integrity": "t+k5ZZZJfqxGLAOZbIEqAh3aruhBg3hNCA6EupOKPb0=",
+      "Fingerprint": "eoult0xp2d",
+      "Integrity": "jhsCD6Qb+WEOH6ikW4Z2OU8KBLtyyvAx662sgdwHo/M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\chunk-5C3H5Q7Q.js"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-5GW63VAN.js",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-5GW63VAN.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "chunk-5GW63VAN#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -94,17 +94,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4t62130w5y",
-      "Integrity": "+BvwZaT04wwKVjwGKkD2OUZC9sZC59MdrKsx98X94z0=",
+      "Fingerprint": "1ti4l5duyt",
+      "Integrity": "yw64OUU/8P7ju82YDuYaMQzH3/j1cNJK/tvcPUoYprI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\chunk-5GW63VAN.js"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-7NWEC2S5.js",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-7NWEC2S5.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "chunk-7NWEC2S5#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -115,19 +115,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4zn4cyj4mr",
-      "Integrity": "oCnmHvcPaNf4+AacZAimpIbkyaa2bS0X9aRWW+f/roA=",
+      "Fingerprint": "as6sx6kkq5",
+      "Integrity": "phW25Wa7t8eWHVyI5KIwGcEHNfs2BQPziJo5UAy4Duc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\chunk-7NWEC2S5.js"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-EA75EXRV.js",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-BXFPQRY4.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "chunk-EA75EXRV#[.{fingerprint}]?.js",
+      "RelativePath": "chunk-BXFPQRY4#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -136,19 +136,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "frhau640b5",
-      "Integrity": "a27zpCiRqJggtoCGRzNc78Y2Gdf+OopvTgQ5GwJoq8Q=",
+      "Fingerprint": "gkhcpjc16o",
+      "Integrity": "8MiMMhIvQ7AU3E7lxIwDlxiKxtg536u1rISDwgBVJDI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\chunk-EA75EXRV.js"
+      "OriginalItemSpec": "wwwroot\\chunk-BXFPQRY4.js"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-F5375OGX.js",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-FBVB2KKT.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "chunk-F5375OGX#[.{fingerprint}]?.js",
+      "RelativePath": "chunk-FBVB2KKT#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -157,17 +157,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "0gzjyw5nxq",
-      "Integrity": "0NNpzr8GJNm6emErvV8iq4IiEJLODjxWcIl/3xExVd0=",
+      "Fingerprint": "qybtmveoek",
+      "Integrity": "0nPJNfEmzXpBgKP7hixaJCszkJKJwlctxKos2LquDnM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\chunk-F5375OGX.js"
+      "OriginalItemSpec": "wwwroot\\chunk-FBVB2KKT.js"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-FCA6M4NN.js",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-FCA6M4NN.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "chunk-FCA6M4NN#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -178,17 +178,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "prcs99kwas",
-      "Integrity": "pdy5NSY9FG9jblEZGdf0dcEYz2pbp7KCp7d+nNz9mxA=",
+      "Fingerprint": "eumyvpy2ri",
+      "Integrity": "JsssCqMg2mYONizXIsUvqJcMJTrE9u+yqZGPFhKynvg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\chunk-FCA6M4NN.js"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-G5T46W7U.js",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-G5T46W7U.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "chunk-G5T46W7U#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -199,38 +199,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "1wjud52tvd",
-      "Integrity": "z355ESSg+7WzivELMbTRyICBh7xwVZvgFmwRTfzMOHQ=",
+      "Fingerprint": "hf91ydebjj",
+      "Integrity": "/TuBFJNCQAMg1Z6YYhgmXdGZAVyer26IONH1E6vOUxk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\chunk-G5T46W7U.js"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-GB6PV6KS.js",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-GIZHMPW7.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "chunk-GB6PV6KS#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "xoj82b4vcz",
-      "Integrity": "T5yTY+XuzNb/ll1cYZ6G7Y/9dAaKej93VGBuhPwM13c=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\chunk-GB6PV6KS.js"
-    },
-    {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-GIZHMPW7.js",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "chunk-GIZHMPW7#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -241,38 +220,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "2cpb6o5z1c",
-      "Integrity": "AovgGI5sM40g3rcH8V1hsZAuGQ0AZ77YvcRX4jpiq9s=",
+      "Fingerprint": "3cf7ki70ru",
+      "Integrity": "Y9VhL7jzvh4KSgucCD1tCEiipcPbQL0gEoBhC1KCKPI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\chunk-GIZHMPW7.js"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-IQLW46ES.js",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-JGYM447R.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "chunk-IQLW46ES#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "tqn4dw1fyo",
-      "Integrity": "yzGkeSZjEKv4EvBygFZvYRFhrBvNI7+mCZQXqk7LyQA=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\chunk-IQLW46ES.js"
-    },
-    {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-JGYM447R.js",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "chunk-JGYM447R#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -283,17 +241,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "r5ifrqu81y",
-      "Integrity": "UXMtMYnF8zmCottArHzpsSSQUd36aIKmlUdwqeZTcJQ=",
+      "Fingerprint": "n0vj27koim",
+      "Integrity": "xyGZXVc2PTBXsP+aJ7L/FVN11ezknCVnViQRnNv8HyA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\chunk-JGYM447R.js"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-LDEEPC7Y.js",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-LDEEPC7Y.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "chunk-LDEEPC7Y#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -304,19 +262,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "enamx85d9u",
-      "Integrity": "lq/3oO7DaLLcH/KlI3IcMDJvsQBzWrJAfPV2SVACnwo=",
+      "Fingerprint": "ovo8zdb1po",
+      "Integrity": "DInBdolQBqHeAO+3hH19lL09ztA+01ubbq2GS+Oljos=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\chunk-LDEEPC7Y.js"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-OHSTD2Q5.js",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-NVPTD52O.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "chunk-OHSTD2Q5#[.{fingerprint}]?.js",
+      "RelativePath": "chunk-NVPTD52O#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -325,19 +283,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "z1wrascle5",
-      "Integrity": "+epvZsL49Kf6chjp44c59I1FDhOytiFRkF2axxjkmr0=",
+      "Fingerprint": "s2dqfl7vvw",
+      "Integrity": "tNd0Hh4XLrg7BLi5u6QPSmeCLbuREfqxUD/fQCs86T0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\chunk-OHSTD2Q5.js"
+      "OriginalItemSpec": "wwwroot\\chunk-NVPTD52O.js"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-W4S356MX.js",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-R7L4FIRC.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "chunk-W4S356MX#[.{fingerprint}]?.js",
+      "RelativePath": "chunk-R7L4FIRC#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -346,17 +304,38 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "1tahuq4fhq",
-      "Integrity": "9dZs2n2ebYA6tJwREZcvmIjdaJ8mUFF5QdWCvuBK71c=",
+      "Fingerprint": "iaiir4qmjp",
+      "Integrity": "5ieMMikIS9CSIB2ufp2BdbntNponFmpZz7+twoYES1w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\chunk-W4S356MX.js"
+      "OriginalItemSpec": "wwwroot\\chunk-R7L4FIRC.js"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-XAZAGRYG.js",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-WFERLD42.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "chunk-WFERLD42#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wmo5rsej52",
+      "Integrity": "+Jaw4INmk3kpd2dz0qwDeMSbXUjzeFnk7Pe7OPjFKYk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chunk-WFERLD42.js"
+    },
+    {
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-XAZAGRYG.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "chunk-XAZAGRYG#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -367,17 +346,38 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "im45cikxo2",
-      "Integrity": "qjp64RRXdUQhYXPceZDG2Udp+URLKg9rOgGsaqsz/G4=",
+      "Fingerprint": "lxw5fjt7u4",
+      "Integrity": "+WBlvXFL7SRl97dGMKtW2glnDJUogbsEYZzGL9Ai3Sg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\chunk-XAZAGRYG.js"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-XIOKZDYD.js",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-XCGNCI2G.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "chunk-XCGNCI2G#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d1gw1ord6c",
+      "Integrity": "MQrGRUA4KSUFW4a4fMs5D3qMijDMxbMii/ejJ8E/a84=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chunk-XCGNCI2G.js"
+    },
+    {
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-XIOKZDYD.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "chunk-XIOKZDYD#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -388,17 +388,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3on9j6f8d3",
-      "Integrity": "E5saBIioIpVcu8z0ASYGgvyIVAWL+5qS+qjlo78WHLE=",
+      "Fingerprint": "qawrf6fwf4",
+      "Integrity": "QhNto+VywPoDp38MBFbCOhDxIhm9zVlltTRpUh+A1IU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\chunk-XIOKZDYD.js"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-XJECHS7E.js",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-XJECHS7E.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "chunk-XJECHS7E#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -409,17 +409,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "rvo30p99zx",
-      "Integrity": "t3TbL2Rp9VNdmTMvwreUzatnV28WZRBlWtDjTCjjMWM=",
+      "Fingerprint": "l6gwjs2u8c",
+      "Integrity": "E2OWchIArL28i9ffFL8vP0T4fXFmA281qPV96Xv8FkE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\chunk-XJECHS7E.js"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\favicon.ico",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\hero1.jpg",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\hero1.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/hero1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hero1.jpg"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\hero2.jpg",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\hero2.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/hero2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hero2.jpg"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\hero3.jpg",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\hero3.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/hero3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hero3.jpg"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\hero4.png",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\hero4.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/hero4#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hero4.png"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\logo.png",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\logo.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/logo#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\placeholder.png",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\placeholder.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/placeholder#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\images\\placeholder.png"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\boot-ang1.png",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\boot-ang1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/boot-ang1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang1.png"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\boot-ang2.png",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\boot-ang2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/boot-ang2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang2.png"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\boot-core1.png",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\boot-core1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/boot-core1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-core1.png"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\boot-core2.png",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\boot-core2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/boot-core2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-core2.png"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\boot-redis1.png",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\boot-redis1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/boot-redis1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-redis1.png"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\glove-code1.png",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\glove-code1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/glove-code1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-code1.png"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\glove-code2.png",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\glove-code2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/glove-code2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-code2.png"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\glove-react1.png",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\glove-react1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/glove-react1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-react1.png"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\glove-react2.png",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\glove-react2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/glove-react2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-react2.png"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\hat-core1.png",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\hat-core1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/hat-core1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\hat-core1.png"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\hat-react1.png",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\hat-react1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/hat-react1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\hat-react1.png"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\hat-react2.png",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\hat-react2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/hat-react2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\hat-react2.png"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\sb-ang1.png",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\sb-ang1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/sb-ang1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang1.png"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\sb-ang2.png",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\sb-ang2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/sb-ang2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang2.png"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\sb-core1.png",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\sb-core1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/sb-core1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-core1.png"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\sb-core2.png",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\sb-core2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/sb-core2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-core2.png"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\sb-react1.png",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\sb-react1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/sb-react1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-react1.png"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\sb-ts1.png",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\sb-ts1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/sb-ts1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-ts1.png"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\index.html",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -955,19 +955,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6qtyqu0q0q",
-      "Integrity": "AiMDctGWk0DJybsSZ8mP4W9coCuvyct4azjKfcu2hlw=",
+      "Fingerprint": "jxp61pha2s",
+      "Integrity": "OQLHYOm/72qtsyIuv91Q3D8z8nGrRRRzKQVlrwYIUvg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\main-YETCN4OU.js",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\main-SYLKMPG3.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "main-YETCN4OU#[.{fingerprint}]?.js",
+      "RelativePath": "main-SYLKMPG3#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -976,17 +976,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9n7qqr8r6u",
-      "Integrity": "NY+jkAGtugcJrTffVE6BVfxxdTYLd32PHCHYmtm/chg=",
+      "Fingerprint": "unx3o5qws8",
+      "Integrity": "Krn6eCzqZHAI6m6205fpLcIzhrySW/HJfFSPnIIKCGY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\main-YETCN4OU.js"
+      "OriginalItemSpec": "wwwroot\\main-SYLKMPG3.js"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\polyfills-6EAL64PA.js",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\polyfills-6EAL64PA.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "polyfills-6EAL64PA#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -997,17 +997,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "uzifi269ha",
-      "Integrity": "6kfxpzEZKWcscpcc8+WFXqUXW2CtlU+9spwbgzYaCwU=",
+      "Fingerprint": "7rvlgi5bkv",
+      "Integrity": "AzwxTcJilTIF8ccpyEqGTU6o8jJMKw+blDA/0yGR3cw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\polyfills-6EAL64PA.js"
     },
     {
-      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\styles-6EURB4QU.css",
+      "Identity": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\styles-6EURB4QU.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "styles-6EURB4QU#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1018,8 +1018,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "e259hijvod",
-      "Integrity": "5qo9PqcoLN5ZOE89WxJGjScrlba5WtMEF7ekzue+oNk=",
+      "Fingerprint": "kph5mi2kpl",
+      "Integrity": "6GafJbJ1CqpToS4P94vqjXqK0ZTOyKg4Wk/fwjLgkJM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\styles-6EURB4QU.css"
@@ -1028,7 +1028,7 @@
   "Endpoints": [
     {
       "Route": "3rdpartylicenses.ms21bxg836.txt",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\3rdpartylicenses.txt",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\3rdpartylicenses.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1073,7 +1073,7 @@
     },
     {
       "Route": "3rdpartylicenses.txt",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\3rdpartylicenses.txt",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\3rdpartylicenses.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1109,8 +1109,8 @@
       ]
     },
     {
-      "Route": "chunk-3KWIB5R2.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-3KWIB5R2.js",
+      "Route": "chunk-3KWIB5R2.3nceo44fdu.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-3KWIB5R2.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1119,7 +1119,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "687"
+          "Value": "688"
         },
         {
           "Name": "Content-Type",
@@ -1127,48 +1127,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IWYcBmGD6QejOvbNmHF3phNLF+I5nanXaktl6rVKuJI=\""
+          "Value": "\"gSDtYs9VdaGuWkcZ+//y1kIthNDkdswO4uBRmrfJgDg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-IWYcBmGD6QejOvbNmHF3phNLF+I5nanXaktl6rVKuJI="
-        }
-      ]
-    },
-    {
-      "Route": "chunk-3KWIB5R2.zjpmjbf2xa.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-3KWIB5R2.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "687"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"IWYcBmGD6QejOvbNmHF3phNLF+I5nanXaktl6rVKuJI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1178,7 +1141,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zjpmjbf2xa"
+          "Value": "3nceo44fdu"
         },
         {
           "Name": "label",
@@ -1186,13 +1149,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-IWYcBmGD6QejOvbNmHF3phNLF+I5nanXaktl6rVKuJI="
+          "Value": "sha256-gSDtYs9VdaGuWkcZ+//y1kIthNDkdswO4uBRmrfJgDg="
         }
       ]
     },
     {
-      "Route": "chunk-5C3H5Q7Q.74exo7hedv.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-5C3H5Q7Q.js",
+      "Route": "chunk-3KWIB5R2.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-3KWIB5R2.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1201,7 +1164,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "84689"
+          "Value": "688"
         },
         {
           "Name": "Content-Type",
@@ -1209,11 +1172,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"t+k5ZZZJfqxGLAOZbIEqAh3aruhBg3hNCA6EupOKPb0=\""
+          "Value": "\"gSDtYs9VdaGuWkcZ+//y1kIthNDkdswO4uBRmrfJgDg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gSDtYs9VdaGuWkcZ+//y1kIthNDkdswO4uBRmrfJgDg="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-5C3H5Q7Q.eoult0xp2d.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-5C3H5Q7Q.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84690"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jhsCD6Qb+WEOH6ikW4Z2OU8KBLtyyvAx662sgdwHo/M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1223,7 +1223,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "74exo7hedv"
+          "Value": "eoult0xp2d"
         },
         {
           "Name": "label",
@@ -1231,13 +1231,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-t+k5ZZZJfqxGLAOZbIEqAh3aruhBg3hNCA6EupOKPb0="
+          "Value": "sha256-jhsCD6Qb+WEOH6ikW4Z2OU8KBLtyyvAx662sgdwHo/M="
         }
       ]
     },
     {
       "Route": "chunk-5C3H5Q7Q.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-5C3H5Q7Q.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-5C3H5Q7Q.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1246,7 +1246,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "84689"
+          "Value": "84690"
         },
         {
           "Name": "Content-Type",
@@ -1254,11 +1254,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"t+k5ZZZJfqxGLAOZbIEqAh3aruhBg3hNCA6EupOKPb0=\""
+          "Value": "\"jhsCD6Qb+WEOH6ikW4Z2OU8KBLtyyvAx662sgdwHo/M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1268,13 +1268,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-t+k5ZZZJfqxGLAOZbIEqAh3aruhBg3hNCA6EupOKPb0="
+          "Value": "sha256-jhsCD6Qb+WEOH6ikW4Z2OU8KBLtyyvAx662sgdwHo/M="
         }
       ]
     },
     {
-      "Route": "chunk-5GW63VAN.4t62130w5y.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-5GW63VAN.js",
+      "Route": "chunk-5GW63VAN.1ti4l5duyt.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-5GW63VAN.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1283,7 +1283,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1556"
+          "Value": "1559"
         },
         {
           "Name": "Content-Type",
@@ -1291,11 +1291,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+BvwZaT04wwKVjwGKkD2OUZC9sZC59MdrKsx98X94z0=\""
+          "Value": "\"yw64OUU/8P7ju82YDuYaMQzH3/j1cNJK/tvcPUoYprI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1305,7 +1305,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4t62130w5y"
+          "Value": "1ti4l5duyt"
         },
         {
           "Name": "label",
@@ -1313,13 +1313,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+BvwZaT04wwKVjwGKkD2OUZC9sZC59MdrKsx98X94z0="
+          "Value": "sha256-yw64OUU/8P7ju82YDuYaMQzH3/j1cNJK/tvcPUoYprI="
         }
       ]
     },
     {
       "Route": "chunk-5GW63VAN.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-5GW63VAN.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-5GW63VAN.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1328,7 +1328,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1556"
+          "Value": "1559"
         },
         {
           "Name": "Content-Type",
@@ -1336,11 +1336,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+BvwZaT04wwKVjwGKkD2OUZC9sZC59MdrKsx98X94z0=\""
+          "Value": "\"yw64OUU/8P7ju82YDuYaMQzH3/j1cNJK/tvcPUoYprI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1350,13 +1350,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+BvwZaT04wwKVjwGKkD2OUZC9sZC59MdrKsx98X94z0="
+          "Value": "sha256-yw64OUU/8P7ju82YDuYaMQzH3/j1cNJK/tvcPUoYprI="
         }
       ]
     },
     {
-      "Route": "chunk-7NWEC2S5.4zn4cyj4mr.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-7NWEC2S5.js",
+      "Route": "chunk-7NWEC2S5.as6sx6kkq5.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-7NWEC2S5.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1365,7 +1365,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4985"
+          "Value": "4986"
         },
         {
           "Name": "Content-Type",
@@ -1373,11 +1373,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"oCnmHvcPaNf4+AacZAimpIbkyaa2bS0X9aRWW+f/roA=\""
+          "Value": "\"phW25Wa7t8eWHVyI5KIwGcEHNfs2BQPziJo5UAy4Duc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1387,7 +1387,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4zn4cyj4mr"
+          "Value": "as6sx6kkq5"
         },
         {
           "Name": "label",
@@ -1395,13 +1395,50 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-oCnmHvcPaNf4+AacZAimpIbkyaa2bS0X9aRWW+f/roA="
+          "Value": "sha256-phW25Wa7t8eWHVyI5KIwGcEHNfs2BQPziJo5UAy4Duc="
         }
       ]
     },
     {
       "Route": "chunk-7NWEC2S5.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-7NWEC2S5.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-7NWEC2S5.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4986"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"phW25Wa7t8eWHVyI5KIwGcEHNfs2BQPziJo5UAy4Duc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-phW25Wa7t8eWHVyI5KIwGcEHNfs2BQPziJo5UAy4Duc="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-BXFPQRY4.gkhcpjc16o.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-BXFPQRY4.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1418,48 +1455,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"oCnmHvcPaNf4+AacZAimpIbkyaa2bS0X9aRWW+f/roA=\""
+          "Value": "\"8MiMMhIvQ7AU3E7lxIwDlxiKxtg536u1rISDwgBVJDI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-oCnmHvcPaNf4+AacZAimpIbkyaa2bS0X9aRWW+f/roA="
-        }
-      ]
-    },
-    {
-      "Route": "chunk-EA75EXRV.frhau640b5.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-EA75EXRV.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11075"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"a27zpCiRqJggtoCGRzNc78Y2Gdf+OopvTgQ5GwJoq8Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1469,21 +1469,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "frhau640b5"
+          "Value": "gkhcpjc16o"
         },
         {
           "Name": "label",
-          "Value": "chunk-EA75EXRV.js"
+          "Value": "chunk-BXFPQRY4.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-a27zpCiRqJggtoCGRzNc78Y2Gdf+OopvTgQ5GwJoq8Q="
+          "Value": "sha256-8MiMMhIvQ7AU3E7lxIwDlxiKxtg536u1rISDwgBVJDI="
         }
       ]
     },
     {
-      "Route": "chunk-EA75EXRV.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-EA75EXRV.js",
+      "Route": "chunk-BXFPQRY4.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-BXFPQRY4.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1492,7 +1492,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11075"
+          "Value": "4985"
         },
         {
           "Name": "Content-Type",
@@ -1500,11 +1500,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"a27zpCiRqJggtoCGRzNc78Y2Gdf+OopvTgQ5GwJoq8Q=\""
+          "Value": "\"8MiMMhIvQ7AU3E7lxIwDlxiKxtg536u1rISDwgBVJDI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1514,13 +1514,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-a27zpCiRqJggtoCGRzNc78Y2Gdf+OopvTgQ5GwJoq8Q="
+          "Value": "sha256-8MiMMhIvQ7AU3E7lxIwDlxiKxtg536u1rISDwgBVJDI="
         }
       ]
     },
     {
-      "Route": "chunk-F5375OGX.0gzjyw5nxq.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-F5375OGX.js",
+      "Route": "chunk-FBVB2KKT.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-FBVB2KKT.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1529,7 +1529,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "331"
+          "Value": "57999"
         },
         {
           "Name": "Content-Type",
@@ -1537,11 +1537,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0NNpzr8GJNm6emErvV8iq4IiEJLODjxWcIl/3xExVd0=\""
+          "Value": "\"0nPJNfEmzXpBgKP7hixaJCszkJKJwlctxKos2LquDnM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0nPJNfEmzXpBgKP7hixaJCszkJKJwlctxKos2LquDnM="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-FBVB2KKT.qybtmveoek.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-FBVB2KKT.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57999"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0nPJNfEmzXpBgKP7hixaJCszkJKJwlctxKos2LquDnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1551,21 +1588,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0gzjyw5nxq"
+          "Value": "qybtmveoek"
         },
         {
           "Name": "label",
-          "Value": "chunk-F5375OGX.js"
+          "Value": "chunk-FBVB2KKT.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0NNpzr8GJNm6emErvV8iq4IiEJLODjxWcIl/3xExVd0="
+          "Value": "sha256-0nPJNfEmzXpBgKP7hixaJCszkJKJwlctxKos2LquDnM="
         }
       ]
     },
     {
-      "Route": "chunk-F5375OGX.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-F5375OGX.js",
+      "Route": "chunk-FCA6M4NN.eumyvpy2ri.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-FCA6M4NN.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1574,7 +1611,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "331"
+          "Value": "76078"
         },
         {
           "Name": "Content-Type",
@@ -1582,85 +1619,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0NNpzr8GJNm6emErvV8iq4IiEJLODjxWcIl/3xExVd0=\""
+          "Value": "\"JsssCqMg2mYONizXIsUvqJcMJTrE9u+yqZGPFhKynvg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0NNpzr8GJNm6emErvV8iq4IiEJLODjxWcIl/3xExVd0="
-        }
-      ]
-    },
-    {
-      "Route": "chunk-FCA6M4NN.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-FCA6M4NN.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "76077"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pdy5NSY9FG9jblEZGdf0dcEYz2pbp7KCp7d+nNz9mxA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-pdy5NSY9FG9jblEZGdf0dcEYz2pbp7KCp7d+nNz9mxA="
-        }
-      ]
-    },
-    {
-      "Route": "chunk-FCA6M4NN.prcs99kwas.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-FCA6M4NN.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "76077"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pdy5NSY9FG9jblEZGdf0dcEYz2pbp7KCp7d+nNz9mxA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1670,7 +1633,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "prcs99kwas"
+          "Value": "eumyvpy2ri"
         },
         {
           "Name": "label",
@@ -1678,13 +1641,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pdy5NSY9FG9jblEZGdf0dcEYz2pbp7KCp7d+nNz9mxA="
+          "Value": "sha256-JsssCqMg2mYONizXIsUvqJcMJTrE9u+yqZGPFhKynvg="
         }
       ]
     },
     {
-      "Route": "chunk-G5T46W7U.1wjud52tvd.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-G5T46W7U.js",
+      "Route": "chunk-FCA6M4NN.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-FCA6M4NN.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1693,7 +1656,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "169331"
+          "Value": "76078"
         },
         {
           "Name": "Content-Type",
@@ -1701,11 +1664,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z355ESSg+7WzivELMbTRyICBh7xwVZvgFmwRTfzMOHQ=\""
+          "Value": "\"JsssCqMg2mYONizXIsUvqJcMJTrE9u+yqZGPFhKynvg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JsssCqMg2mYONizXIsUvqJcMJTrE9u+yqZGPFhKynvg="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-G5T46W7U.hf91ydebjj.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-G5T46W7U.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "169335"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/TuBFJNCQAMg1Z6YYhgmXdGZAVyer26IONH1E6vOUxk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1715,7 +1715,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1wjud52tvd"
+          "Value": "hf91ydebjj"
         },
         {
           "Name": "label",
@@ -1723,13 +1723,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-z355ESSg+7WzivELMbTRyICBh7xwVZvgFmwRTfzMOHQ="
+          "Value": "sha256-/TuBFJNCQAMg1Z6YYhgmXdGZAVyer26IONH1E6vOUxk="
         }
       ]
     },
     {
       "Route": "chunk-G5T46W7U.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-G5T46W7U.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-G5T46W7U.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1738,7 +1738,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "169331"
+          "Value": "169335"
         },
         {
           "Name": "Content-Type",
@@ -1746,11 +1746,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z355ESSg+7WzivELMbTRyICBh7xwVZvgFmwRTfzMOHQ=\""
+          "Value": "\"/TuBFJNCQAMg1Z6YYhgmXdGZAVyer26IONH1E6vOUxk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1760,13 +1760,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-z355ESSg+7WzivELMbTRyICBh7xwVZvgFmwRTfzMOHQ="
+          "Value": "sha256-/TuBFJNCQAMg1Z6YYhgmXdGZAVyer26IONH1E6vOUxk="
         }
       ]
     },
     {
-      "Route": "chunk-GB6PV6KS.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-GB6PV6KS.js",
+      "Route": "chunk-GIZHMPW7.3cf7ki70ru.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-GIZHMPW7.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1775,7 +1775,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5928"
+          "Value": "12511"
         },
         {
           "Name": "Content-Type",
@@ -1783,48 +1783,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"T5yTY+XuzNb/ll1cYZ6G7Y/9dAaKej93VGBuhPwM13c=\""
+          "Value": "\"Y9VhL7jzvh4KSgucCD1tCEiipcPbQL0gEoBhC1KCKPI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-T5yTY+XuzNb/ll1cYZ6G7Y/9dAaKej93VGBuhPwM13c="
-        }
-      ]
-    },
-    {
-      "Route": "chunk-GB6PV6KS.xoj82b4vcz.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-GB6PV6KS.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5928"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"T5yTY+XuzNb/ll1cYZ6G7Y/9dAaKej93VGBuhPwM13c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1834,52 +1797,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xoj82b4vcz"
-        },
-        {
-          "Name": "label",
-          "Value": "chunk-GB6PV6KS.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-T5yTY+XuzNb/ll1cYZ6G7Y/9dAaKej93VGBuhPwM13c="
-        }
-      ]
-    },
-    {
-      "Route": "chunk-GIZHMPW7.2cpb6o5z1c.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-GIZHMPW7.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12510"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AovgGI5sM40g3rcH8V1hsZAuGQ0AZ77YvcRX4jpiq9s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "2cpb6o5z1c"
+          "Value": "3cf7ki70ru"
         },
         {
           "Name": "label",
@@ -1887,13 +1805,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AovgGI5sM40g3rcH8V1hsZAuGQ0AZ77YvcRX4jpiq9s="
+          "Value": "sha256-Y9VhL7jzvh4KSgucCD1tCEiipcPbQL0gEoBhC1KCKPI="
         }
       ]
     },
     {
       "Route": "chunk-GIZHMPW7.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-GIZHMPW7.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-GIZHMPW7.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1902,7 +1820,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12510"
+          "Value": "12511"
         },
         {
           "Name": "Content-Type",
@@ -1910,11 +1828,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AovgGI5sM40g3rcH8V1hsZAuGQ0AZ77YvcRX4jpiq9s=\""
+          "Value": "\"Y9VhL7jzvh4KSgucCD1tCEiipcPbQL0gEoBhC1KCKPI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1924,95 +1842,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AovgGI5sM40g3rcH8V1hsZAuGQ0AZ77YvcRX4jpiq9s="
-        }
-      ]
-    },
-    {
-      "Route": "chunk-IQLW46ES.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-IQLW46ES.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "93664"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yzGkeSZjEKv4EvBygFZvYRFhrBvNI7+mCZQXqk7LyQA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-yzGkeSZjEKv4EvBygFZvYRFhrBvNI7+mCZQXqk7LyQA="
-        }
-      ]
-    },
-    {
-      "Route": "chunk-IQLW46ES.tqn4dw1fyo.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-IQLW46ES.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "93664"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yzGkeSZjEKv4EvBygFZvYRFhrBvNI7+mCZQXqk7LyQA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "tqn4dw1fyo"
-        },
-        {
-          "Name": "label",
-          "Value": "chunk-IQLW46ES.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-yzGkeSZjEKv4EvBygFZvYRFhrBvNI7+mCZQXqk7LyQA="
+          "Value": "sha256-Y9VhL7jzvh4KSgucCD1tCEiipcPbQL0gEoBhC1KCKPI="
         }
       ]
     },
     {
       "Route": "chunk-JGYM447R.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-JGYM447R.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-JGYM447R.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2021,7 +1857,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4267"
+          "Value": "4268"
         },
         {
           "Name": "Content-Type",
@@ -2029,11 +1865,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UXMtMYnF8zmCottArHzpsSSQUd36aIKmlUdwqeZTcJQ=\""
+          "Value": "\"xyGZXVc2PTBXsP+aJ7L/FVN11ezknCVnViQRnNv8HyA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2043,13 +1879,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-UXMtMYnF8zmCottArHzpsSSQUd36aIKmlUdwqeZTcJQ="
+          "Value": "sha256-xyGZXVc2PTBXsP+aJ7L/FVN11ezknCVnViQRnNv8HyA="
         }
       ]
     },
     {
-      "Route": "chunk-JGYM447R.r5ifrqu81y.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-JGYM447R.js",
+      "Route": "chunk-JGYM447R.n0vj27koim.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-JGYM447R.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2058,7 +1894,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4267"
+          "Value": "4268"
         },
         {
           "Name": "Content-Type",
@@ -2066,11 +1902,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UXMtMYnF8zmCottArHzpsSSQUd36aIKmlUdwqeZTcJQ=\""
+          "Value": "\"xyGZXVc2PTBXsP+aJ7L/FVN11ezknCVnViQRnNv8HyA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2080,7 +1916,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "r5ifrqu81y"
+          "Value": "n0vj27koim"
         },
         {
           "Name": "label",
@@ -2088,13 +1924,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UXMtMYnF8zmCottArHzpsSSQUd36aIKmlUdwqeZTcJQ="
+          "Value": "sha256-xyGZXVc2PTBXsP+aJ7L/FVN11ezknCVnViQRnNv8HyA="
         }
       ]
     },
     {
-      "Route": "chunk-LDEEPC7Y.enamx85d9u.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-LDEEPC7Y.js",
+      "Route": "chunk-LDEEPC7Y.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-LDEEPC7Y.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2103,7 +1939,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20801"
+          "Value": "20803"
         },
         {
           "Name": "Content-Type",
@@ -2111,11 +1947,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lq/3oO7DaLLcH/KlI3IcMDJvsQBzWrJAfPV2SVACnwo=\""
+          "Value": "\"DInBdolQBqHeAO+3hH19lL09ztA+01ubbq2GS+Oljos=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DInBdolQBqHeAO+3hH19lL09ztA+01ubbq2GS+Oljos="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-LDEEPC7Y.ovo8zdb1po.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-LDEEPC7Y.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DInBdolQBqHeAO+3hH19lL09ztA+01ubbq2GS+Oljos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2125,7 +1998,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "enamx85d9u"
+          "Value": "ovo8zdb1po"
         },
         {
           "Name": "label",
@@ -2133,13 +2006,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-lq/3oO7DaLLcH/KlI3IcMDJvsQBzWrJAfPV2SVACnwo="
+          "Value": "sha256-DInBdolQBqHeAO+3hH19lL09ztA+01ubbq2GS+Oljos="
         }
       ]
     },
     {
-      "Route": "chunk-LDEEPC7Y.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-LDEEPC7Y.js",
+      "Route": "chunk-NVPTD52O.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-NVPTD52O.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2148,7 +2021,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20801"
+          "Value": "5929"
         },
         {
           "Name": "Content-Type",
@@ -2156,11 +2029,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lq/3oO7DaLLcH/KlI3IcMDJvsQBzWrJAfPV2SVACnwo=\""
+          "Value": "\"tNd0Hh4XLrg7BLi5u6QPSmeCLbuREfqxUD/fQCs86T0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2170,13 +2043,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lq/3oO7DaLLcH/KlI3IcMDJvsQBzWrJAfPV2SVACnwo="
+          "Value": "sha256-tNd0Hh4XLrg7BLi5u6QPSmeCLbuREfqxUD/fQCs86T0="
         }
       ]
     },
     {
-      "Route": "chunk-OHSTD2Q5.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-OHSTD2Q5.js",
+      "Route": "chunk-NVPTD52O.s2dqfl7vvw.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-NVPTD52O.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2185,7 +2058,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4984"
+          "Value": "5929"
         },
         {
           "Name": "Content-Type",
@@ -2193,48 +2066,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+epvZsL49Kf6chjp44c59I1FDhOytiFRkF2axxjkmr0=\""
+          "Value": "\"tNd0Hh4XLrg7BLi5u6QPSmeCLbuREfqxUD/fQCs86T0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-+epvZsL49Kf6chjp44c59I1FDhOytiFRkF2axxjkmr0="
-        }
-      ]
-    },
-    {
-      "Route": "chunk-OHSTD2Q5.z1wrascle5.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-OHSTD2Q5.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4984"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+epvZsL49Kf6chjp44c59I1FDhOytiFRkF2axxjkmr0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2244,21 +2080,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "z1wrascle5"
+          "Value": "s2dqfl7vvw"
         },
         {
           "Name": "label",
-          "Value": "chunk-OHSTD2Q5.js"
+          "Value": "chunk-NVPTD52O.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+epvZsL49Kf6chjp44c59I1FDhOytiFRkF2axxjkmr0="
+          "Value": "sha256-tNd0Hh4XLrg7BLi5u6QPSmeCLbuREfqxUD/fQCs86T0="
         }
       ]
     },
     {
-      "Route": "chunk-W4S356MX.1tahuq4fhq.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-W4S356MX.js",
+      "Route": "chunk-R7L4FIRC.iaiir4qmjp.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-R7L4FIRC.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2267,7 +2103,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "57918"
+          "Value": "11076"
         },
         {
           "Name": "Content-Type",
@@ -2275,11 +2111,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9dZs2n2ebYA6tJwREZcvmIjdaJ8mUFF5QdWCvuBK71c=\""
+          "Value": "\"5ieMMikIS9CSIB2ufp2BdbntNponFmpZz7+twoYES1w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2289,21 +2125,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1tahuq4fhq"
+          "Value": "iaiir4qmjp"
         },
         {
           "Name": "label",
-          "Value": "chunk-W4S356MX.js"
+          "Value": "chunk-R7L4FIRC.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9dZs2n2ebYA6tJwREZcvmIjdaJ8mUFF5QdWCvuBK71c="
+          "Value": "sha256-5ieMMikIS9CSIB2ufp2BdbntNponFmpZz7+twoYES1w="
         }
       ]
     },
     {
-      "Route": "chunk-W4S356MX.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-W4S356MX.js",
+      "Route": "chunk-R7L4FIRC.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-R7L4FIRC.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2312,7 +2148,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "57918"
+          "Value": "11076"
         },
         {
           "Name": "Content-Type",
@@ -2320,11 +2156,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9dZs2n2ebYA6tJwREZcvmIjdaJ8mUFF5QdWCvuBK71c=\""
+          "Value": "\"5ieMMikIS9CSIB2ufp2BdbntNponFmpZz7+twoYES1w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2334,13 +2170,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9dZs2n2ebYA6tJwREZcvmIjdaJ8mUFF5QdWCvuBK71c="
+          "Value": "sha256-5ieMMikIS9CSIB2ufp2BdbntNponFmpZz7+twoYES1w="
         }
       ]
     },
     {
-      "Route": "chunk-XAZAGRYG.im45cikxo2.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-XAZAGRYG.js",
+      "Route": "chunk-WFERLD42.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-WFERLD42.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2349,7 +2185,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "192019"
+          "Value": "93665"
         },
         {
           "Name": "Content-Type",
@@ -2357,11 +2193,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qjp64RRXdUQhYXPceZDG2Udp+URLKg9rOgGsaqsz/G4=\""
+          "Value": "\"+Jaw4INmk3kpd2dz0qwDeMSbXUjzeFnk7Pe7OPjFKYk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Jaw4INmk3kpd2dz0qwDeMSbXUjzeFnk7Pe7OPjFKYk="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-WFERLD42.wmo5rsej52.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-WFERLD42.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93665"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Jaw4INmk3kpd2dz0qwDeMSbXUjzeFnk7Pe7OPjFKYk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2371,7 +2244,89 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "im45cikxo2"
+          "Value": "wmo5rsej52"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-WFERLD42.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Jaw4INmk3kpd2dz0qwDeMSbXUjzeFnk7Pe7OPjFKYk="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-XAZAGRYG.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-XAZAGRYG.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192021"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+WBlvXFL7SRl97dGMKtW2glnDJUogbsEYZzGL9Ai3Sg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+WBlvXFL7SRl97dGMKtW2glnDJUogbsEYZzGL9Ai3Sg="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-XAZAGRYG.lxw5fjt7u4.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-XAZAGRYG.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192021"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+WBlvXFL7SRl97dGMKtW2glnDJUogbsEYZzGL9Ai3Sg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lxw5fjt7u4"
         },
         {
           "Name": "label",
@@ -2379,13 +2334,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qjp64RRXdUQhYXPceZDG2Udp+URLKg9rOgGsaqsz/G4="
+          "Value": "sha256-+WBlvXFL7SRl97dGMKtW2glnDJUogbsEYZzGL9Ai3Sg="
         }
       ]
     },
     {
-      "Route": "chunk-XAZAGRYG.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-XAZAGRYG.js",
+      "Route": "chunk-XCGNCI2G.d1gw1ord6c.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-XCGNCI2G.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2394,7 +2349,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "192019"
+          "Value": "332"
         },
         {
           "Name": "Content-Type",
@@ -2402,48 +2357,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qjp64RRXdUQhYXPceZDG2Udp+URLKg9rOgGsaqsz/G4=\""
+          "Value": "\"MQrGRUA4KSUFW4a4fMs5D3qMijDMxbMii/ejJ8E/a84=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-qjp64RRXdUQhYXPceZDG2Udp+URLKg9rOgGsaqsz/G4="
-        }
-      ]
-    },
-    {
-      "Route": "chunk-XIOKZDYD.3on9j6f8d3.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-XIOKZDYD.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "63606"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"E5saBIioIpVcu8z0ASYGgvyIVAWL+5qS+qjlo78WHLE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2453,7 +2371,126 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3on9j6f8d3"
+          "Value": "d1gw1ord6c"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-XCGNCI2G.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MQrGRUA4KSUFW4a4fMs5D3qMijDMxbMii/ejJ8E/a84="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-XCGNCI2G.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-XCGNCI2G.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MQrGRUA4KSUFW4a4fMs5D3qMijDMxbMii/ejJ8E/a84=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MQrGRUA4KSUFW4a4fMs5D3qMijDMxbMii/ejJ8E/a84="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-XIOKZDYD.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-XIOKZDYD.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63607"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QhNto+VywPoDp38MBFbCOhDxIhm9zVlltTRpUh+A1IU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QhNto+VywPoDp38MBFbCOhDxIhm9zVlltTRpUh+A1IU="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-XIOKZDYD.qawrf6fwf4.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-XIOKZDYD.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63607"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QhNto+VywPoDp38MBFbCOhDxIhm9zVlltTRpUh+A1IU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qawrf6fwf4"
         },
         {
           "Name": "label",
@@ -2461,50 +2498,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-E5saBIioIpVcu8z0ASYGgvyIVAWL+5qS+qjlo78WHLE="
-        }
-      ]
-    },
-    {
-      "Route": "chunk-XIOKZDYD.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-XIOKZDYD.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "63606"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"E5saBIioIpVcu8z0ASYGgvyIVAWL+5qS+qjlo78WHLE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-E5saBIioIpVcu8z0ASYGgvyIVAWL+5qS+qjlo78WHLE="
+          "Value": "sha256-QhNto+VywPoDp38MBFbCOhDxIhm9zVlltTRpUh+A1IU="
         }
       ]
     },
     {
       "Route": "chunk-XJECHS7E.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-XJECHS7E.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-XJECHS7E.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2513,7 +2513,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "189055"
+          "Value": "189062"
         },
         {
           "Name": "Content-Type",
@@ -2521,11 +2521,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"t3TbL2Rp9VNdmTMvwreUzatnV28WZRBlWtDjTCjjMWM=\""
+          "Value": "\"E2OWchIArL28i9ffFL8vP0T4fXFmA281qPV96Xv8FkE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2535,13 +2535,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-t3TbL2Rp9VNdmTMvwreUzatnV28WZRBlWtDjTCjjMWM="
+          "Value": "sha256-E2OWchIArL28i9ffFL8vP0T4fXFmA281qPV96Xv8FkE="
         }
       ]
     },
     {
-      "Route": "chunk-XJECHS7E.rvo30p99zx.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\chunk-XJECHS7E.js",
+      "Route": "chunk-XJECHS7E.l6gwjs2u8c.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\chunk-XJECHS7E.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2550,7 +2550,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "189055"
+          "Value": "189062"
         },
         {
           "Name": "Content-Type",
@@ -2558,11 +2558,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"t3TbL2Rp9VNdmTMvwreUzatnV28WZRBlWtDjTCjjMWM=\""
+          "Value": "\"E2OWchIArL28i9ffFL8vP0T4fXFmA281qPV96Xv8FkE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2572,7 +2572,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rvo30p99zx"
+          "Value": "l6gwjs2u8c"
         },
         {
           "Name": "label",
@@ -2580,13 +2580,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-t3TbL2Rp9VNdmTMvwreUzatnV28WZRBlWtDjTCjjMWM="
+          "Value": "sha256-E2OWchIArL28i9ffFL8vP0T4fXFmA281qPV96Xv8FkE="
         }
       ]
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2623,7 +2623,7 @@
     },
     {
       "Route": "favicon.vagikyz9qx.ico",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2668,7 +2668,7 @@
     },
     {
       "Route": "images/hero1.9g8nky98ym.jpg",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\hero1.jpg",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\hero1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2713,7 +2713,7 @@
     },
     {
       "Route": "images/hero1.jpg",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\hero1.jpg",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\hero1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2750,7 +2750,7 @@
     },
     {
       "Route": "images/hero2.9em09a7zx9.jpg",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\hero2.jpg",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\hero2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2795,7 +2795,7 @@
     },
     {
       "Route": "images/hero2.jpg",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\hero2.jpg",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\hero2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2832,7 +2832,7 @@
     },
     {
       "Route": "images/hero3.gx8rvylj2y.jpg",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\hero3.jpg",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\hero3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2877,7 +2877,7 @@
     },
     {
       "Route": "images/hero3.jpg",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\hero3.jpg",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\hero3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2914,7 +2914,7 @@
     },
     {
       "Route": "images/hero4.g0irkbzfu4.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\hero4.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\hero4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2959,7 +2959,7 @@
     },
     {
       "Route": "images/hero4.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\hero4.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\hero4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2996,7 +2996,7 @@
     },
     {
       "Route": "images/logo.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\logo.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3033,7 +3033,7 @@
     },
     {
       "Route": "images/logo.y6d1rl17od.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\logo.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3078,7 +3078,7 @@
     },
     {
       "Route": "images/placeholder.dlbf4ut9r1.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\placeholder.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\placeholder.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3123,7 +3123,7 @@
     },
     {
       "Route": "images/placeholder.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\placeholder.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\placeholder.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3160,7 +3160,7 @@
     },
     {
       "Route": "images/products/boot-ang1.e7vhuam157.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\boot-ang1.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\boot-ang1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3181,7 +3181,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3205,7 +3205,7 @@
     },
     {
       "Route": "images/products/boot-ang1.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\boot-ang1.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\boot-ang1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3226,7 +3226,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3242,7 +3242,7 @@
     },
     {
       "Route": "images/products/boot-ang2.g3mx7ghjao.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\boot-ang2.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\boot-ang2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3263,7 +3263,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3287,7 +3287,7 @@
     },
     {
       "Route": "images/products/boot-ang2.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\boot-ang2.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\boot-ang2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3308,7 +3308,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3324,7 +3324,7 @@
     },
     {
       "Route": "images/products/boot-core1.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\boot-core1.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\boot-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3345,7 +3345,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3361,7 +3361,7 @@
     },
     {
       "Route": "images/products/boot-core1.u5gzcfuhld.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\boot-core1.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\boot-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3382,7 +3382,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3406,7 +3406,7 @@
     },
     {
       "Route": "images/products/boot-core2.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\boot-core2.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\boot-core2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3427,7 +3427,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3443,7 +3443,7 @@
     },
     {
       "Route": "images/products/boot-core2.vl8j47b4zz.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\boot-core2.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\boot-core2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3464,7 +3464,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3488,7 +3488,7 @@
     },
     {
       "Route": "images/products/boot-redis1.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\boot-redis1.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\boot-redis1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3509,7 +3509,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3525,7 +3525,7 @@
     },
     {
       "Route": "images/products/boot-redis1.ujsmkc6cge.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\boot-redis1.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\boot-redis1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3546,7 +3546,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3570,7 +3570,7 @@
     },
     {
       "Route": "images/products/glove-code1.hjatec42kt.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\glove-code1.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\glove-code1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3591,7 +3591,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3615,7 +3615,7 @@
     },
     {
       "Route": "images/products/glove-code1.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\glove-code1.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\glove-code1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3636,7 +3636,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3652,7 +3652,7 @@
     },
     {
       "Route": "images/products/glove-code2.7rfyrcpgaq.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\glove-code2.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\glove-code2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3673,7 +3673,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3697,7 +3697,7 @@
     },
     {
       "Route": "images/products/glove-code2.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\glove-code2.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\glove-code2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3718,7 +3718,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3734,7 +3734,7 @@
     },
     {
       "Route": "images/products/glove-react1.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\glove-react1.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\glove-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3755,7 +3755,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3771,7 +3771,7 @@
     },
     {
       "Route": "images/products/glove-react1.qkf2kkbct5.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\glove-react1.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\glove-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3792,7 +3792,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3816,7 +3816,7 @@
     },
     {
       "Route": "images/products/glove-react2.hleln2xgnm.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\glove-react2.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\glove-react2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3837,7 +3837,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3861,7 +3861,7 @@
     },
     {
       "Route": "images/products/glove-react2.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\glove-react2.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\glove-react2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3882,7 +3882,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3898,7 +3898,7 @@
     },
     {
       "Route": "images/products/hat-core1.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\hat-core1.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\hat-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3919,7 +3919,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3935,7 +3935,7 @@
     },
     {
       "Route": "images/products/hat-core1.qjn20d7mmr.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\hat-core1.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\hat-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3956,7 +3956,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3980,7 +3980,7 @@
     },
     {
       "Route": "images/products/hat-react1.ogijun3cjh.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\hat-react1.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\hat-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4001,7 +4001,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4025,7 +4025,7 @@
     },
     {
       "Route": "images/products/hat-react1.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\hat-react1.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\hat-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4046,7 +4046,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4062,7 +4062,7 @@
     },
     {
       "Route": "images/products/hat-react2.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\hat-react2.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\hat-react2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4083,7 +4083,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4099,7 +4099,7 @@
     },
     {
       "Route": "images/products/hat-react2.wihax8artv.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\hat-react2.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\hat-react2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4120,7 +4120,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4144,7 +4144,7 @@
     },
     {
       "Route": "images/products/sb-ang1.lvxtg3kj4t.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\sb-ang1.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\sb-ang1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4165,7 +4165,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4189,7 +4189,7 @@
     },
     {
       "Route": "images/products/sb-ang1.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\sb-ang1.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\sb-ang1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4210,7 +4210,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4226,7 +4226,7 @@
     },
     {
       "Route": "images/products/sb-ang2.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\sb-ang2.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\sb-ang2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4247,7 +4247,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4263,7 +4263,7 @@
     },
     {
       "Route": "images/products/sb-ang2.sz22xe7sgv.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\sb-ang2.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\sb-ang2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4284,7 +4284,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4308,7 +4308,7 @@
     },
     {
       "Route": "images/products/sb-core1.1035sj0izl.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\sb-core1.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\sb-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4329,7 +4329,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4353,7 +4353,7 @@
     },
     {
       "Route": "images/products/sb-core1.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\sb-core1.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\sb-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4374,7 +4374,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4390,7 +4390,7 @@
     },
     {
       "Route": "images/products/sb-core2.drwp5gg2x0.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\sb-core2.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\sb-core2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4411,7 +4411,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4435,7 +4435,7 @@
     },
     {
       "Route": "images/products/sb-core2.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\sb-core2.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\sb-core2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4456,7 +4456,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4472,7 +4472,7 @@
     },
     {
       "Route": "images/products/sb-react1.6zxvxdfvuf.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\sb-react1.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\sb-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4493,7 +4493,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4517,7 +4517,7 @@
     },
     {
       "Route": "images/products/sb-react1.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\sb-react1.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\sb-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4538,7 +4538,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4554,7 +4554,7 @@
     },
     {
       "Route": "images/products/sb-ts1.oybcq84912.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\sb-ts1.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\sb-ts1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4575,7 +4575,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4599,7 +4599,7 @@
     },
     {
       "Route": "images/products/sb-ts1.png",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\images\\products\\sb-ts1.png",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\images\\products\\sb-ts1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4620,7 +4620,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:54:35 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4635,8 +4635,8 @@
       ]
     },
     {
-      "Route": "index.6qtyqu0q0q.html",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\index.html",
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4645,7 +4645,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "114965"
+          "Value": "105559"
         },
         {
           "Name": "Content-Type",
@@ -4653,11 +4653,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AiMDctGWk0DJybsSZ8mP4W9coCuvyct4azjKfcu2hlw=\""
+          "Value": "\"OQLHYOm/72qtsyIuv91Q3D8z8nGrRRRzKQVlrwYIUvg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OQLHYOm/72qtsyIuv91Q3D8z8nGrRRRzKQVlrwYIUvg="
+        }
+      ]
+    },
+    {
+      "Route": "index.jxp61pha2s.html",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105559"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OQLHYOm/72qtsyIuv91Q3D8z8nGrRRRzKQVlrwYIUvg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4667,7 +4704,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6qtyqu0q0q"
+          "Value": "jxp61pha2s"
         },
         {
           "Name": "label",
@@ -4675,13 +4712,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AiMDctGWk0DJybsSZ8mP4W9coCuvyct4azjKfcu2hlw="
+          "Value": "sha256-OQLHYOm/72qtsyIuv91Q3D8z8nGrRRRzKQVlrwYIUvg="
         }
       ]
     },
     {
-      "Route": "index.html",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\index.html",
+      "Route": "main-SYLKMPG3.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\main-SYLKMPG3.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4690,19 +4727,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "114965"
+          "Value": "147374"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/html"
+          "Value": "text/javascript"
         },
         {
           "Name": "ETag",
-          "Value": "\"AiMDctGWk0DJybsSZ8mP4W9coCuvyct4azjKfcu2hlw=\""
+          "Value": "\"Krn6eCzqZHAI6m6205fpLcIzhrySW/HJfFSPnIIKCGY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4712,13 +4749,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AiMDctGWk0DJybsSZ8mP4W9coCuvyct4azjKfcu2hlw="
+          "Value": "sha256-Krn6eCzqZHAI6m6205fpLcIzhrySW/HJfFSPnIIKCGY="
         }
       ]
     },
     {
-      "Route": "main-YETCN4OU.9n7qqr8r6u.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\main-YETCN4OU.js",
+      "Route": "main-SYLKMPG3.unx3o5qws8.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\main-SYLKMPG3.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4727,7 +4764,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "147325"
+          "Value": "147374"
         },
         {
           "Name": "Content-Type",
@@ -4735,11 +4772,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NY+jkAGtugcJrTffVE6BVfxxdTYLd32PHCHYmtm/chg=\""
+          "Value": "\"Krn6eCzqZHAI6m6205fpLcIzhrySW/HJfFSPnIIKCGY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Thu, 22 May 2025 13:03:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4749,21 +4786,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9n7qqr8r6u"
+          "Value": "unx3o5qws8"
         },
         {
           "Name": "label",
-          "Value": "main-YETCN4OU.js"
+          "Value": "main-SYLKMPG3.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NY+jkAGtugcJrTffVE6BVfxxdTYLd32PHCHYmtm/chg="
+          "Value": "sha256-Krn6eCzqZHAI6m6205fpLcIzhrySW/HJfFSPnIIKCGY="
         }
       ]
     },
     {
-      "Route": "main-YETCN4OU.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\main-YETCN4OU.js",
+      "Route": "polyfills-6EAL64PA.7rvlgi5bkv.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\polyfills-6EAL64PA.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4772,7 +4809,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "147325"
+          "Value": "34237"
         },
         {
           "Name": "Content-Type",
@@ -4780,85 +4817,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NY+jkAGtugcJrTffVE6BVfxxdTYLd32PHCHYmtm/chg=\""
+          "Value": "\"AzwxTcJilTIF8ccpyEqGTU6o8jJMKw+blDA/0yGR3cw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-NY+jkAGtugcJrTffVE6BVfxxdTYLd32PHCHYmtm/chg="
-        }
-      ]
-    },
-    {
-      "Route": "polyfills-6EAL64PA.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\polyfills-6EAL64PA.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "34235"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6kfxpzEZKWcscpcc8+WFXqUXW2CtlU+9spwbgzYaCwU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-6kfxpzEZKWcscpcc8+WFXqUXW2CtlU+9spwbgzYaCwU="
-        }
-      ]
-    },
-    {
-      "Route": "polyfills-6EAL64PA.uzifi269ha.js",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\polyfills-6EAL64PA.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "34235"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6kfxpzEZKWcscpcc8+WFXqUXW2CtlU+9spwbgzYaCwU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4868,7 +4831,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uzifi269ha"
+          "Value": "7rvlgi5bkv"
         },
         {
           "Name": "label",
@@ -4876,13 +4839,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-6kfxpzEZKWcscpcc8+WFXqUXW2CtlU+9spwbgzYaCwU="
+          "Value": "sha256-AzwxTcJilTIF8ccpyEqGTU6o8jJMKw+blDA/0yGR3cw="
         }
       ]
     },
     {
-      "Route": "styles-6EURB4QU.css",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\styles-6EURB4QU.css",
+      "Route": "polyfills-6EAL64PA.js",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\polyfills-6EAL64PA.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4891,19 +4854,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "135457"
+          "Value": "34237"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "text/javascript"
         },
         {
           "Name": "ETag",
-          "Value": "\"5qo9PqcoLN5ZOE89WxJGjScrlba5WtMEF7ekzue+oNk=\""
+          "Value": "\"AzwxTcJilTIF8ccpyEqGTU6o8jJMKw+blDA/0yGR3cw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4913,13 +4876,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5qo9PqcoLN5ZOE89WxJGjScrlba5WtMEF7ekzue+oNk="
+          "Value": "sha256-AzwxTcJilTIF8ccpyEqGTU6o8jJMKw+blDA/0yGR3cw="
         }
       ]
     },
     {
-      "Route": "styles-6EURB4QU.e259hijvod.css",
-      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\api\\wwwroot\\styles-6EURB4QU.css",
+      "Route": "styles-6EURB4QU.css",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\styles-6EURB4QU.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4928,7 +4891,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "135457"
+          "Value": "135458"
         },
         {
           "Name": "Content-Type",
@@ -4936,11 +4899,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5qo9PqcoLN5ZOE89WxJGjScrlba5WtMEF7ekzue+oNk=\""
+          "Value": "\"6GafJbJ1CqpToS4P94vqjXqK0ZTOyKg4Wk/fwjLgkJM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:29:40 GMT"
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6GafJbJ1CqpToS4P94vqjXqK0ZTOyKg4Wk/fwjLgkJM="
+        }
+      ]
+    },
+    {
+      "Route": "styles-6EURB4QU.kph5mi2kpl.css",
+      "AssetFile": "C:\\Users\\sbtha\\Downloads\\Projects\\Skinet\\API\\wwwroot\\styles-6EURB4QU.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6GafJbJ1CqpToS4P94vqjXqK0ZTOyKg4Wk/fwjLgkJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 13:17:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4950,7 +4950,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "e259hijvod"
+          "Value": "kph5mi2kpl"
         },
         {
           "Name": "label",
@@ -4958,7 +4958,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5qo9PqcoLN5ZOE89WxJGjScrlba5WtMEF7ekzue+oNk="
+          "Value": "sha256-6GafJbJ1CqpToS4P94vqjXqK0ZTOyKg4Wk/fwjLgkJM="
         }
       ]
     }

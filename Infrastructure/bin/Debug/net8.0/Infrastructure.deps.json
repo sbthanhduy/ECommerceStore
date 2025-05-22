@@ -11,6 +11,7 @@
           "Core": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.7",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.6",
+          "SonarAnalyzer.CSharp": "10.8.0.113526",
           "StackExchange.Redis": "2.8.0",
           "Stripe.net": "45.4.0"
         },
@@ -470,6 +471,7 @@
       "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.2": {},
       "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.2": {},
       "runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.2": {},
+      "SonarAnalyzer.CSharp/10.8.0.113526": {},
       "StackExchange.Redis/2.8.0": {
         "dependencies": {
           "Microsoft.Extensions.Logging.Abstractions": "8.0.0",
@@ -1389,6 +1391,13 @@
       "sha512": "sha512-leXiwfiIkW7Gmn7cgnNcdtNAU70SjmKW3jxGj1iKHOvdn0zRWsgv/l2OJUO5zdGdiv2VRFnAsxxhDgMzofPdWg==",
       "path": "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl/4.3.2",
       "hashPath": "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512"
+    },
+    "SonarAnalyzer.CSharp/10.8.0.113526": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2+Gk4w467coeL9ozQlAN9y0mwMj3XmlacFYZE0Ptz4LC4EkmMPwY5ygYPkwg9/xJ1SIShmoAC+5Sinb3khHDng==",
+      "path": "sonaranalyzer.csharp/10.8.0.113526",
+      "hashPath": "sonaranalyzer.csharp.10.8.0.113526.nupkg.sha512"
     },
     "StackExchange.Redis/2.8.0": {
       "type": "package",
