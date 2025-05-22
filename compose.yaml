@@ -30,13 +30,25 @@
       - "6379:6379"
     volumes:
       - redis-data:/data
-  aspire-dashboard:
-    image: mcr.microsoft.com/dotnet/aspire-dashboard:9.0
-    environment:
-      DOTNET_DASHBOARD_UNSECURED_ALLOW_ANONYMOUS: true
+#  aspire-dashboard:
+#    image: mcr.microsoft.com/dotnet/aspire-dashboard:9.0
+#    environment:
+#      DOTNET_DASHBOARD_UNSECURED_ALLOW_ANONYMOUS: true
+#    ports:
+#      - "18888:18888"
+  redis_vector:
+    image: redis/redis-stack:latest
     ports:
-      - "18888:18888"
+      - "6380:6379"     # Expose Redis Stack on a different host port
+      - "8001:8001"     # Optional: RedisInsight UI
+
+    volumes:
+      - redis_vector_data:/data
+    environment:
+      - REDIS_ARGS=--appendonly yes
+#      - REDIS_ARGS=--requirepass yourpassword
     
 volumes:
   redis-data:
   sql-data:
+  redis_vector_data:
